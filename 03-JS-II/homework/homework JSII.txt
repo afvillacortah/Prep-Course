@@ -1,0 +1,10 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Ciclo "for"
+Es un statment que se encarga de hacer tareas repetitivas, la cantidad de repeticiones se controla por medio de un contador y de una condicion que involucra a este contador ,que se especifica en la cabezera del ciclo , como asi tambien se debe especificar el avance en el contador una vez ejecutado el codigo del ciclo. 
+El ciclo for se usa cuando sabemos de antemano cuantas veces requerimos ejecutar el codigo para que haga lo que esperamos.
+
+Operadores logicos 
+&& : sirve para lograr que una condicion de tipo booleana contenga a mas de una expresion.Para que la condicion sea true se deben tener valor de verdad true en todas las expresiones que contiene. && se traduce como "y".
+|| : sirve para lograr que una condicion de tipo booleana contenga a mas de una expresion.Para que la condicion sea true se deben tener valor de verdad true en alguna de todas las expresiones que contiene. || se traduce como "o"
+! : operador de negacion, invierte el valor de verdad de operador que le sigue. Como por ejemplo != significa "distinto o no igual". !true = false . etc
